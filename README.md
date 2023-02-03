@@ -6,3 +6,4 @@
 ## Core Kafka (Vanilla Kafka)
 ***
 ### Concepts
+* [Kafka in 100 Seconds](https://youtu.be/uvb00oaa3k8)
